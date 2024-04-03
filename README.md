@@ -1,4 +1,4 @@
-# lecture-vue-7
+# vue-shopping-list
 
 ## Project setup
 

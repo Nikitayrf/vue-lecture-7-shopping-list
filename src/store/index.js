@@ -42,7 +42,7 @@ export default new Vuex.Store({
                     }
                 ]
                 commit('SET_PAYMENT', paymentList)
-            }, 5000);
+            }, 2000);
         }
     },
     // методы для чтения состояния 
